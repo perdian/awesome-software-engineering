@@ -7,7 +7,7 @@ lint-js:
   image: registry.gitlab.com/pipeline-components/eslint:latest
   stage: verify
   script: |-
-    eslint 'src/**/*.js'
+    eslint $( [[ -e .eslintrc ]] || echo '--no-eslintrc' ) --env es2024 'src/**/*.js'
 ```
 
 .eslintrc.json in project root:
