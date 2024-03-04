@@ -58,3 +58,7 @@ My personal collection of software engineering resources.
 ## Testing & QA
 
 * [Email Testing](https://github.com/topics/email-testing)
+
+## Quotes, etc.
+
+* [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) (*"Never attribute to malice that which is adequately explained by stupidity"*)
