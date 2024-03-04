@@ -2,6 +2,21 @@
 
 My personal collection of software engineering resources.
 
+## Web Development
+
+* [Build a better mobile Input](https://better-mobile-inputs.netlify.app/): Tutorial on how to make input fields behave better on mobile devices
+* [Please make your Table Headings sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
+* [Small Details to improve your Website's Experience](https://alvaromontoro.com/blog/68039/small-details-to-improve-your-website-experience)
+
+### Fonts
+
+* [Monaspace](https://monaspace.githubnext.com/)
+
+## Operations
+
+* [Qryn](https://reclaim-the-stack.com/docs/platform-components/log-aggregation): OpenSource log aggregation
+* [GlitchTip](https://massadas.com/posts/ditch-sentry-for-a-free-open-source-alternative/): OpenSource error tracking (Sentry replacement)
+
 ## Coding
 
 ### Linters
@@ -40,3 +55,6 @@ My personal collection of software engineering resources.
 
 * [Collect JUnit test results](https://docs.gitlab.com/ee/ci/yaml/artifacts_reports.html)
 
+## Testing & QA
+
+* [Email Testing](https://github.com/topics/email-testing)
